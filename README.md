@@ -9,7 +9,7 @@ Details:
 Setup scripts to report and monitor which story's code is in which environment.
 
 As a release owner,====
-I want to know what stories have been testing in STG and are ready for release
+I want to know what stories have been testing in STG and are ready for release=====
 So That the release process is easy, quick, and reduces risk.
 
 As a product owner,
